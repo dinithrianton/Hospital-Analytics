@@ -1,6 +1,6 @@
 # Hospital-Analytics
 
-This is a BI analysis data querying and visualization project based on the Linkedin Learning course: Analyze Patient Encounters and Costs with MySQL. Attached are a printed copy of the sql queries, the sql code file, and the following tableau public link to the viz. 
+This is a BI analysis data querying and visualization project based on the Linkedin Learning course: Analyze Patient Encounters and Costs with MySQL. Attached are a printed copy of the SQL queries, the SQL code file, and the following tableau public link to the Viz. 
 
 Tools utilized: SQLite, DB Browser for SQLite, Tableau
 
